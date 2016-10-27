@@ -1,19 +1,5 @@
-# myfiles
-My files.
 
----
+これまでの活動
+----
 
-### Markdown記法
-
-```terminal
-code block
-hogehoge
-```
-inline block ```hogehoge```
-
-打ち消し線 ~~hogehoge~~  
-強調 **hogehoge**  
-イタリック *hogehoge*  
-リンク [Google](http://google.co.jp)  
-* List1
-* List2
+* 10/26 Xamarin入門者の集い [LT発表資料](./pdf/Xamarin入門者の集い@mmmmmiya1109.pdf)
