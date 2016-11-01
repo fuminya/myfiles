@@ -7,7 +7,7 @@ gulp.task('webserver', function () {
     gulp.src('slide-template') // 公開したい静的ファイルを配置したディレクトリを指定する
         .pipe(webserver({
             host: 'localhost',
-            port: 8000,
+            port: 8080,
             livereload: true
         }));
 });
