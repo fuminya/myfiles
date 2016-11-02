@@ -7,7 +7,7 @@
 		<title>スライドテンプレート</title>
 
 		<link rel="stylesheet" href="vendor/reveal.js/css/reveal.css">
-		<link rel="stylesheet" href="vendor/reveal.js/css/theme/black.css">
+		<link rel="stylesheet" href="vendor/reveal.js/css/theme/simple.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="vendor/reveal.js/lib/css/zenburn.css">
@@ -19,8 +19,35 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<section data-markdown data-separator="---$" data-separator-vertical=">>>$"
+					data-transition="zoom" style="text-align : left;">
+					## markdown
+
+					>>>
+
+					* separator
+					* hogehoge
+
+					>>>
+
+					* vertical
+					* fugafuga
+
+				</section>
+				<section>
+					<p class="fragment grow">grow 大きくする</p>
+          <p class="fragment shrink">shrink 小さくする</p>
+          <p class="fragment roll-in">roll-in 回転しながら表示</p>
+          <p class="fragment fade-out">fade-out フェードアウト</p>
+          <p class="fragment current-visible">visible only once 一度だけ表示</p>
+          <p class="fragment highlight-current-blue">blue only once 一度だけ青くする</p>
+          <p class="fragment highlight-red">highlight-red 赤くハイライト</p>
+          <p class="fragment highlight-green">highlight-green 緑にハイライト</p>
+          <p class="fragment highlight-blue">highlight-blue 青にハイライト</p>
+          <p class="fragment fade-in">
+              <span class="fragment fade-out">フェードイン・フェードアウト</span>
+          </p>
+				</section>
         <section data-markdown="./md/slide1.md">
         </section>
 			</div>
