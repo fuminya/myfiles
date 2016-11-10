@@ -6,6 +6,10 @@
 * 10/26 Xamarin入門者の集い [LT発表資料](./pdf/Xamarin入門者の集い@mmmmmiya1109.pdf)
 * 11/4 JXUG#18 フォローアップハンズオン [資材](https://github.com/jxug/PrismAndMoqHansOn)
 
+## Prism for Xamarinの勉強
+* [@nuits_jpさん](https://twitter.com/nuits_jp)のブログ
+  - [Prism for Xamarin.Forms入門](http://www.nuits.jp/entry/2016/08/22/173858)
+
 ## スライドテンプレートについて
 [サンプル](http://mmmmmiya.github.io/myfiles/slide-template)
 
