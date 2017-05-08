@@ -22,6 +22,6 @@
   - [Prism for Xamarin.Forms入門](http://www.nuits.jp/entry/2016/08/22/173858)
 
 # スライドテンプレートについて
-[サンプル](http://mmmmmiya.github.io/myfiles/slide-template)
+[サンプル](http://fuminya.github.io/myfiles/slide-template)
 
 * reveal.js + markdown + github
