@@ -14,6 +14,17 @@
 * 2/25 [初心者向けXamarinハンズオン!#2](https://jxug.connpass.com/event/49244/)で初めてのメンター
 * 3/4 [GeekWomenJapan×Microsoft Geek になりたい人のためのミニカンファ](http://geekwomenjapan.github.io/20170304/gwjpms/)
 
+## 2018年
+
+* 6/24 - 産休
+* 10/1 - 育休
+
+## 2019年
+
+* 4/1 - 仕事復帰(ワークママ)
+
+***
+
 # Xamarinの勉強について
 
 ## Prism for Xamarinの勉強
